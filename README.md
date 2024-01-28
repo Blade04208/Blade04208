@@ -1,7 +1,7 @@
 Im **Blade04208** and I make dumb stuff.
 I mostly copy off of other's peoples stuff and build from there.
 
-![me website](https://blade0.webflow.io/)
+[me website](https://blade0.webflow.io/)
 
 ![All my socials](Socials.md)
 
